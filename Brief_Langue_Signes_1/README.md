@@ -8,7 +8,7 @@ L'arrière-plan est filmé sans main pendant quelques secondes, sauvegardé, pui
 
 ![](A0.jpg)
 
-(Les gestes retenus pour ce modèle sont ceux de [l'alphabet LSF décrit ici](https://fr.wikipedia.org/wiki/Alphabet_dactylologique#Alphabet_de_la_Lsf). D'autres modèles peuvent présenter des différences sur certaines lettres et ne sont donc pas interchangeable.
+(Les gestes retenus pour ce modèle sont ceux de [l'alphabet LSF décrit ici](https://fr.wikipedia.org/wiki/Alphabet_dactylologique#Alphabet_de_la_Lsf). D'autres modèles peuvent présenter des différences sur certaines lettres et ne sont donc pas interchangeables.
 
 Le Notebook est relancé pour chaque signe que l'on souhaite créer. Une ligne d'input demande à l'utilisateur de choisir l'élément (comme "A") puis la webcam filme l'arrière-plan quelques secondes avant de vérifier si une main est présente puis de prendre 100 frames.
 
