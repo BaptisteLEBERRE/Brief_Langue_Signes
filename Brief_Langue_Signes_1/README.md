@@ -6,7 +6,7 @@ Après nous être rendu compte qu'un entraînement sur de simples images de main
 
 L'arrière-plan est filmé sans main pendant quelques secondes, sauvegardé, puis la main est introduite dans l'image et les différences avec l'image de départ sans main suffisent à obtenir un contour.
 
-![](gesture/A/A0.jpg)
+![](A0.jpg)
 
 (Les gestes retenus pour ce modèle sont ceux de [l'alphabet LSF décrit ici](https://fr.wikipedia.org/wiki/Alphabet_dactylologique#Alphabet_de_la_Lsf). D'autres modèles peuvent présenter des différences sur certaines lettres et ne sont donc pas interchangeable.
 
