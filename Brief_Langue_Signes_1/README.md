@@ -45,3 +45,5 @@ Et dans des conditions de luminosité différentes :
 ![](image_A_2.png)
 
 Ce problème pourrait peut-être être compensé avec un plus gros dataset issues de prises à la luminosité variée. Cependant, cette méthode par contours reste limitée pour détecter les positions plus subtiles de la main.
+
+Le modèle a aussi beaucoup de fluctuations entre les différentes lettres et n'est donc pas très adapté pour la reconstruction de mots par caméra.
